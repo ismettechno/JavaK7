@@ -7,5 +7,7 @@ public class Merhaba {
         System.out.println("Merhaba 2");
 
         System.out.println("Mer 3");
+
+        System.out.println("Merhaba 7");
     }
 }
